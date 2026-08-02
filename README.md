@@ -48,7 +48,7 @@ Customer-Segmentation-ML/
 Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/Customer-Segmentation-ML.git
+git clone https://github.com/Savan-Joshi/Customer-Segmentation-ML.git
 ```
 
 Install dependencies
@@ -92,4 +92,4 @@ python customer_segmentation.py
 
 ## Author
 
-Your Name
+Savan Joshi
