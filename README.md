@@ -77,7 +77,6 @@ python customer_segmentation.py
 
 - elbow.png
 - clusters.png
-- segmented_customers.csv
 
 ---
 
